@@ -206,7 +206,7 @@ a:focus {
 }
 
 .content__title {
-	font-size: 3rem;
+	font-size: 2.8rem;
 	font-weight: inherit;
 	margin: 0;
 	color: var(--color-title);
@@ -341,6 +341,6 @@ a:focus {
 		justify-content: flex-end;
 	}
 	.content__title {
-		font-size: 8.75vw;
+		font-size: 8vw;
 	}
 }
