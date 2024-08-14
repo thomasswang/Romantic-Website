@@ -274,7 +274,8 @@ h2 {
 }
 
 .intro__content-line--small {
-	font-size: 1.5rem;
+	font-size: 3rem;
+	font-weight: bold;
 }
 
 .no-js .intro {
